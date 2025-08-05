@@ -18,9 +18,9 @@ Welcome to my GitHub — where curiosity meets code, and ideas become tools.
 ## ⚙️ Tech Stack
 
 ```ts
-Languages:   TypeScript, JavaScript, Python, SQL  
+Languages:   TypeScript, JavaScript, Python, SQL, MATLAB
 Frameworks:  Next.js, React, Node.js, Django  
 Styling:     Tailwind CSS, CSS Modules  
 Databases:   PostgreSQL, MongoDB, MySQL  
 Tools:       Docker, Git, Vite, VS Code  
-AI/Infra:    OpenAI, Pinecone, LangChain, Replicate, LLaMA
+AI/Infra:    OpenAI, RAG, LangChain, LLaMA
