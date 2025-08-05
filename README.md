@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hey, I'm Md. Arafath Islam Siam
 
-<!--
-**arafathsiam99/arafathsiam99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub — where curiosity meets code, and ideas become tools.
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=mdarafathislam&label=Profile%20Views&color=0e75b6&style=flat-square)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 About Me
+
+- 🔭 Working on **AI-powered web apps** and **RAG-based knowledge systems**
+- 🤖 Focused on **LLMs, LangChain, and Vector Search**
+- 🛠 I love building tools that solve real-world problems
+- 🌱 Currently diving deeper into **MLOps**, **agents**, and **LLaMA integrations**
+
+---
+
+## ⚙️ Tech Stack
+
+```ts
+Languages:   TypeScript, JavaScript, Python, SQL  
+Frameworks:  Next.js, React, Node.js, Django  
+Styling:     Tailwind CSS, CSS Modules  
+Databases:   PostgreSQL, MongoDB, MySQL  
+Tools:       Docker, Git, Vite, VS Code  
+AI/Infra:    OpenAI, Pinecone, LangChain, Replicate, LLaMA
